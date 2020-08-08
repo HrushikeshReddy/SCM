@@ -9,4 +9,3 @@ if [[ ( $username == "admin" && $password == "secret" ) ]]; then
 echo "valid user"
 elecho "invalid user"
 
-# My name is Hrushikesh Reddy
